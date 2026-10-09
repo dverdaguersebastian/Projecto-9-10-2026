@@ -1,0 +1,8 @@
+{
+  "dependencies": {
+    "@ionic/angular": "^9.0.7"
+  },
+  "devDependencies": {
+    "@types/jasmine": "^7.0.0"
+  }
+}
